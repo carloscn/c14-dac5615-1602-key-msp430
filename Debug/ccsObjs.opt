@@ -1,0 +1,1 @@
+"./src/adc.obj" "./src/da5615.obj" "./src/key.obj" "./src/lcd1602.obj" "./src/main.obj" "../lnk_msp430f149.cmd" -llibc.a 
